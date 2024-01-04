@@ -7,14 +7,14 @@ ready: true
 Basic Facts
 -----------
 
-* **Course Web Site**: <https://ucsb-cs8.github.io/w24/>
+* **Course Web Site**: <https://ucsb-csw8.github.io/w24/>
 * **Instructor**: Richert Wang
    * Please use [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8) for course related communication.
 * **Lecture**: Tu, Th 11:00am-12:15pm
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
 * **Lab** (50 minute lab sections): Wednesdays 10am, 11am, 12pm, 1pm, 2pm, 3pm, 4pm, 5pm ()
-* **Office Hours**: See <https://ucsb-cs8.github.io/w24/info/office_hours/>
+* **Office Hours**: See <https://ucsb-csw8.github.io/w24/info/office_hours/>
 
 # Required Resources
 
@@ -153,7 +153,7 @@ Your course grade will be determined as follows:
 Programming, like all subjects, takes a lot of time and practice to master. UCSB estimates that a 4-unit course is equivalent to approximately 12 hours of work per week (https://catalog.ucsb.edu/academicsandpolicies/policies/academicpoliciesprocedures#units-of-credit1). 
 
 * In general, there will be zyBook assignments where each week corresponds to one chapter in zyBooks (with the exception of the first week being due at the end of week 2). zyBook assignments are due on Sundays by 11:59PM PST.
-  * Refer to the calendar on when assignments are due (https://ucsb-cs8.github.io/w24/info/calendar/).
+  * Refer to the calendar on when assignments are due (https://ucsb-csw8.github.io/w24/info/calendar/).
   * Each chapter has three categories of assignments. Participation Activities (PA), Challenge Activities (CA), and Lab Activities (LA).
 * In order to gain experience with writing native Python code outside of zyBooks, there will be a few Gradescope autograded labs (where you will submit .py files) assigned throughout the quarter (more on these labs will be posted throughout the quarter).
   * Gradescope labs are autograded and your score is based on Gradescope's recorded score.

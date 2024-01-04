@@ -4,7 +4,7 @@ plugins:
 
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
-url: https://ucsb-cs8.github.io
+url: https://ucsb-csw8.github.io
 baseurl: "/w24"
 
 course: "CMPSCW 8"
@@ -15,7 +15,7 @@ piazza_url:
 gauchospace_course_page:
 gradescope_class_url:
 
-github_url: https://github.com/ucsb-cs8/w24
+github_url: https://github.com/ucsb-csw8/w24
 
 start_week: 1
 start_date: 2024-01-07 00:00:00.00-7:00
