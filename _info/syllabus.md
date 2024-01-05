@@ -33,7 +33,7 @@ Introduction to computer program development for students with little to no prog
 
 </div>
 
-## A few course policies in brief
+# A few course policies in brief
 
 * If you are registered for another UCSB course that overlaps with this one, you are responsible for any work or material you may miss. I am within my rights to not give credit on any work you miss as a result, and WILL NOT make accomodations.
 * Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work independently. **Students are responsible for educating themselves on UCSB's academic integrity policies and abide by them.** [UCSB Academic Integrity](https://studentconduct.sa.ucsb.edu/academic-integrity). Any violation of academic integrity in this course will result in an automatic F and be reported to UCSB's Office of Student Conduct. If you have any questions regarding academic integrity, I'll be happy to discuss them.
@@ -42,7 +42,7 @@ Introduction to computer program development for students with little to no prog
 * We will use the [Gradescope](https://gradescope.com) this quarter for certain lab assignments, quizzes, and the final exam.
 * We will use the [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8)
 
-## What this course is about 
+# What this course is about 
 
 This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page <http://python.org/downloads/>. I encourage everyone to install Python on their local computer in order to practice programming in your own time.
 
@@ -54,13 +54,13 @@ I find the best way to practice is to <strong>rapid prototype</strong> constantl
 
 Programming is the study of <strong>algorithms</strong>, i.e. step-by-step instructions telling the computer what it needs to do. There are <strong>MANY</strong> algorithms that can solve a problem and it's important to consider the computational time, memory space, and correctness of the algorithms you create.
 
-## Why Python?
+# Why Python?
 
 * Python is a popular choice for introductory programming courses since it arguably easier to learn than C/C++ and Java.
 * Python is a largely supported language and is widely used in academia and industry.
 * There is a lot of support for Python that comes with the language itself and 3rd party libraries other developers created that you can use for many types of applications.
 
-## What you need to learn to become a skilled beginning level programmer
+# What you need to learn to become a skilled beginning level programmer
 
 So, what is it that you need to know to be a skilled beginning-level programmer in Python? Here's the list of what you'll need to be ready for CMPSC 9 / 16 (the next programming courses):
 
@@ -149,7 +149,7 @@ Your course grade will be determined as follows:
 | zyBooks Lab Activities (LA)                   | 20 %                      |
 | Gradescope Labs                               | 10 %                      |
 
-## Workload
+# Workload
 
 Programming, like all subjects, takes a lot of time and practice to master. UCSB estimates that a 4-unit course is equivalent to approximately 12 hours of work per week <https://catalog.ucsb.edu/academicsandpolicies/policies/academicpoliciesprocedures#units-of-credit1>. 
 
@@ -161,11 +161,11 @@ Programming, like all subjects, takes a lot of time and practice to master. UCSB
 * We will have timed 30 minute bi-weekly quizzes on Gradescope given on Fridays of even weeks (Fridays on Weeks 2,4,6,8,10), and are open to complete from 8am - 8pm PST.
 * We will have a remote synchronous 2 hour final exam on Gradescope during the scheduled final exam time.
 
-## Late Policy and Regrade Requests
+# Late Policy and Regrade Requests
 
 I will consider late submissions / accommodations <strong>only</strong> for medical or family emergencies **and only when formal documentation can be provided**. This **does not** include overwhelming workload from other courses, scheduling conflicts, technical difficulties, or vacation plans.
 
-I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time. The late work policy below accounts for absences (or failure to submit work) in a way that does not unduly penalize your grade unless it becomes excessive. 
+I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time. The late work policy below accounts for absences (or failure to submit work) in a way that does not unduly penalize your grade unless it becomes excessive. The policy (unless stated otherwise) are:
 
 * Your zyBook activities are based on the work you complete by the deadline. However, you can receive partial credit for work submitted to zyBooks past the deadline **within one week of the original deadline**.
   * You still receive full credit for any work in zyBooks completed **before** the deadline, but any portion of incomplete work that is submitted **within one week after the deadline** will only receive 50%.
@@ -188,9 +188,9 @@ Personal concerns such as stress, anxiety, relationships, depression, cultural d
 Responsible scholarship
 -----------------------
 
-Honesty and integrity in all academic work is essential for a valuable educational experience. The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students’ responsibilities, available on their website at: https://studentconduct.sa.ucsb.edu/academic-integrity. **Students are responsible for educating themselves on the policies and abide by them.**
+Honesty and integrity in all academic work is essential for a valuable educational experience. The Office of Judicial Affairs has policies, tips, and resources for proper citation use, recognizing actions considered to be cheating or other forms of academic theft, and students’ responsibilities, available on their website at: <https://studentconduct.sa.ucsb.edu/academic-integrity>. **Students are responsible for educating themselves on the policies and abide by them.**
 
-Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit http://clas.sa.ucsb.edu
+Furthermore, for general academic support, students are encouraged to visit Campus Learning Assistance Services (CLAS) early and often. CLAS offers instructional groups, drop-in tutoring, writing and ESL services, skills workshops and one-on-one consultations. CLAS is located on the third floor of the Student Resource Building, or visit <http://clas.sa.ucsb.edu>
 
 Standard Disclaimer
 -------------------
