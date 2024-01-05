@@ -19,7 +19,7 @@ Basic Facts
 # Required Resources
 
 * Textbook:
-  * [zyBooks](https://www.zybooks.com/)
+  * [zyBooks](https://www.zybooks.com/) - Instructions on purchasing the version for our course will be provided. 
 
 Official UCSB Catalog Description
 ---------------------------------
