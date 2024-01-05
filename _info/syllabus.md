@@ -10,10 +10,10 @@ Basic Facts
 * **Course Web Site**: <https://ucsb-csw8.github.io/w24/>
 * **Instructor**: Richert Wang
    * Please use [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8) for course related communication.
-* **Lecture**: Tu, Th 11:00am-12:15pm
+* **Lecture**: Tu, Th 11:00am-12:15pm on Zoom
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
-* **Lab** (50 minute lab sections): Wednesdays 10am, 11am, 12pm, 1pm, 2pm, 3pm, 4pm, 5pm ()
+* **Lab** (50 minute lab sections): Wednesdays 10am, 11am, 12pm, 1pm, 2pm, 3pm, 4pm, 5pm [https://ucsb.zoom.us/j/88499822812](https://ucsb.zoom.us/j/88499822812)
 * **Office Hours**: See <https://ucsb-csw8.github.io/w24/info/office_hours/>
 
 # Required Resources
@@ -38,12 +38,13 @@ Introduction to computer program development for students with little to no prog
 * If you are registered for another UCSB course that overlaps with this one, you are responsible for any work or material you may miss. I am within my rights to not give credit on any work you miss as a result, and WILL NOT make accomodations.
 * Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work independently. **Students are responsible for educating themselves on UCSB's academic integrity policies and abide by them.** [UCSB Academic Integrity](https://studentconduct.sa.ucsb.edu/academic-integrity). Any violation of academic integrity in this course will result in an automatic F and be reported to UCSB's Office of Student Conduct. If you have any questions regarding academic integrity, I'll be happy to discuss them.
 * We will use the online interactive textbook [zyBooks](https://www.zybooks.com/).
+  * Instructions on purchasing the version for our course will be provided.
 * We will use the [Gradescope](https://gradescope.com) this quarter for certain lab assignments, quizzes, and the final exam.
 * We will use the [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8)
 
 ## What this course is about 
 
-This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page (http://python.org/downloads/). I encourage everyone to install Python on their local computer in order to practice programming in your own time.
+This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page <http://python.org/downloads/>. I encourage everyone to install Python on their local computer in order to practice programming in your own time.
 
 If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
 
@@ -150,10 +151,10 @@ Your course grade will be determined as follows:
 
 ## Workload
 
-Programming, like all subjects, takes a lot of time and practice to master. UCSB estimates that a 4-unit course is equivalent to approximately 12 hours of work per week (https://catalog.ucsb.edu/academicsandpolicies/policies/academicpoliciesprocedures#units-of-credit1). 
+Programming, like all subjects, takes a lot of time and practice to master. UCSB estimates that a 4-unit course is equivalent to approximately 12 hours of work per week <https://catalog.ucsb.edu/academicsandpolicies/policies/academicpoliciesprocedures#units-of-credit1>. 
 
 * In general, there will be zyBook assignments where each week corresponds to one chapter in zyBooks (with the exception of the first week being due at the end of week 2). zyBook assignments are due on Sundays by 11:59PM PST.
-  * Refer to the calendar on when assignments are due (https://ucsb-csw8.github.io/w24/info/calendar/).
+  * Refer to the calendar on when assignments are due [Calendar](https://ucsb-csw8.github.io/w24/info/calendar/).
   * Each chapter has three categories of assignments. Participation Activities (PA), Challenge Activities (CA), and Lab Activities (LA).
 * In order to gain experience with writing native Python code outside of zyBooks, there will be a few Gradescope autograded labs (where you will submit .py files) assigned throughout the quarter (more on these labs will be posted throughout the quarter).
   * Gradescope labs are autograded and your score is based on Gradescope's recorded score.
