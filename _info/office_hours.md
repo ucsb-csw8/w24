@@ -10,7 +10,7 @@ ready: true
 
 Richert Wang
 
-* Tuesdays 12:30 - 1:30pm
+* Tuesdays 12:30pm - 1:30pm
 * Thursdays 10am - 11am
 * Note: Instructor office hours will use the same zoom link as lectures.
 
