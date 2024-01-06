@@ -39,8 +39,8 @@ Introduction to computer program development for students with little to no prog
 * Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work independently. **Students are responsible for educating themselves on UCSB's academic integrity policies and abide by them.** [UCSB Academic Integrity](https://studentconduct.sa.ucsb.edu/academic-integrity). Any violation of academic integrity in this course will result in an automatic F and be reported to UCSB's Office of Student Conduct. If you have any questions regarding academic integrity, I'll be happy to discuss them.
 * We will use the online interactive textbook [zyBooks](https://www.zybooks.com/).
   * Instructions on purchasing the version for our course will be provided.
-* We will use the [Gradescope](https://gradescope.com) this quarter for certain lab assignments, quizzes, and the final exam.
-* We will use the [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8)
+* We will use the [Gradescope](https://gradescope.com) for certain lab assignments, quizzes, and the final exam.
+* We will use [Piazza](https://piazza.com/ucsb/winter2024/cmpscw8) for all course-related communication and questions.
 
 # What this course is about 
 
@@ -155,7 +155,7 @@ Programming, like all subjects, takes a lot of time and practice to master. UCSB
 
 * In general, there will be zyBook assignments where each week corresponds to one chapter in zyBooks (with the exception of the first week being due at the end of week 2). zyBook assignments are due on Sundays by 11:59PM PST.
   * Refer to the calendar on when assignments are due [Calendar](https://ucsb-csw8.github.io/w24/info/calendar/).
-  * Each chapter has three categories of assignments. Participation Activities (PA), Challenge Activities (CA), and Lab Activities (LA).
+  * Each chapter generally have three categories of assignments. Participation Activities (PA), Challenge Activities (CA), and Lab Activities (LA).
 * In order to gain experience with writing native Python code outside of zyBooks, there will be a few Gradescope autograded labs (where you will submit .py files) assigned throughout the quarter (more on these labs will be posted throughout the quarter).
   * Gradescope labs are autograded and your score is based on Gradescope's recorded score.
 * We will have timed 30 minute bi-weekly quizzes on Gradescope given on Fridays of even weeks (Fridays on Weeks 2,4,6,8,10), and are open to complete from 8am - 8pm PST.
@@ -171,7 +171,7 @@ I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoid
   * You receive full credit for any work in zyBooks completed **before** the deadline, but any portion of incomplete work that is submitted after the deadline will only receive 50%.
   * You can submit late work up until the end of Sunday before finals week (3/17/24 by 11:59PM PST).
 * Your lowest quiz score will be dropped automatically.
-* Gradescope labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have an automatic **20%** deduction from your grade. We will only consider the most recent submission.
+* Gradescope labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have an automatic **20%** deduction from your assignment. We will only consider the most recent submission.
 * **I highly encourage students not to wait until the last-minute to complete assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 * For any manually graded component, regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students (except stated otherwise).
 
