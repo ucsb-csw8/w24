@@ -121,7 +121,7 @@ So, what is it that you need to know to be a skilled beginning-level programmer 
   </tr>
 </table>
 
-## Piazza Etiquette
+# Piazza Etiquette
 
 Here are some general rules about Piazza, to keep it from getting cluttered, make sure you can benefit the most from having this forum, and to make it easier for us to answer your questions. Class communication will be done through this platform (reminders / announcements / etc).
 
@@ -143,10 +143,10 @@ Your course grade will be determined as follows:
 | Grade Item                                    | Percentage of Final Grade |
 |-----------------------------------------------|---------------------------|
 | Quizzes (Fridays, Week 2,4,6,8,10)            | 25 %                      |
-| Final (Wednesday 3/20), 12pm - 2pm            | 25 %                      |
+| Final (Wednesday 3/20), 12pm - 2pm            | 20 %                      |
 | zyBooks Participation Activities (PA)         | 5 %                       |
 | zyBooks Challenge Activities (CA)             | 15 %                      |
-| zyBooks Lab Activities (LA)                   | 20 %                      |
+| zyBooks Lab Activities (LA)                   | 25 %                      |
 | Gradescope Labs                               | 10 %                      |
 
 # Workload
@@ -167,13 +167,13 @@ I will consider late submissions / accommodations <strong>only</strong> for medi
 
 I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time. The late work policy below accounts for absences (or failure to submit work) in a way that does not unduly penalize your grade unless it becomes excessive. The policy (unless stated otherwise) are:
 
-* Your zyBook activities are based on the work you complete by the deadline. However, you can receive partial credit for work submitted to zyBooks past the deadline **within one week of the original deadline**.
-  * You still receive full credit for any work in zyBooks completed **before** the deadline, but any portion of incomplete work that is submitted **within one week after the deadline** will only receive 50%.
-  * No credit will be given for any work in zyBooks submitted **one week after** the deadline.
+* Your zyBook activities are based on the work you complete by the deadline.
+  * You receive full credit for any work in zyBooks completed **before** the deadline, but any portion of incomplete work that is submitted after the deadline will only receive 50%.
+  * You can submit late work up until the end of Sunday before finals week (3/17/24 by 11:59PM PST).
 * Your lowest quiz score will be dropped automatically.
 * Gradescope labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have an automatic **20%** deduction from your grade. We will only consider the most recent submission.
 * **I highly encourage students not to wait until the last-minute to complete assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
-* For any manually graded component (Quizzes / Final Exam), regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students (except stated otherwise).
+* For any manually graded component, regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students (except stated otherwise).
 
 Accommodations for disabilities
 -------------------------------
