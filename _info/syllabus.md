@@ -46,7 +46,7 @@ Introduction to computer program development for students with little to no prog
 
 This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page <http://python.org/downloads/>. I encourage everyone to install Python on their local computer in order to practice programming in your own time.
 
-If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
+If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [Python Tutor](https://pythontutor.com) and [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
 
 Learning how to program requires <strong>A LOT</strong> of practice like learning any new skill. Making mistakes is an essential part of learning as long as you learn from them! Questions like "I wonder what will happen if I do this..." or "How will Python behave in this case..." is a great way to investigate and observe the functionality and limitations of a programming language (there are many programming languages available to software developers and each have their specific pros and cons that may or may not be the best choice for the problems you are trying to solve).
 
