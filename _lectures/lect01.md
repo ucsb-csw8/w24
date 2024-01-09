@@ -49,7 +49,7 @@ comment
 '''
 
 """
-This works like
+This works
 too
 """
 ```
