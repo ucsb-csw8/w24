@@ -171,7 +171,7 @@ x = int(x) # Error
 # Input Function
 
 * Useful programs generally require input from the user
-	* Imagine if your web browser ONLY took you to https:://www.ucsb.edu !
+	* Imagine if your web browser ONLY took you to https://www.ucsb.edu !
 * There are many forms of input into a program (keyboard, mouse movement / clicks, files, ...)
 * For an interactive shell application, we can accept user keyboard input using the input function (`input()`)
 	* When the input function is called, it displays what’s inside, then waits until the user enters something and hits return
