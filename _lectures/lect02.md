@@ -80,8 +80,13 @@ print(type(1.0)) #float
 # Some Numerical Operators
 
 * Python gives us certain operators to perform on numerical types
-	* Examples: `+`,`-`,`*`,`/`,`**`,`//`,`%`
-* Follows algebraic order-of-operations (https://docs.python.org/3/reference/expressions.html#operator-precedence)
+	* Examples: `+`, `-`, `*`, `/`, `**`, `//`, `%`
+* Follows algebraic order-of-operations (PEDMAS) (Python org: <https://docs.python.org/3/reference/expressions.html#operator-precedence>)
+* Example
+```python
+print(2 + 3 * 3 + (2 - 1))
+```
+
 * Either ints or floats are returned depending on the values used
 * Example
 
@@ -147,37 +152,44 @@ print("CSW" + 8) #ERROR!
 ```python
 x = "10.0"
 print(type(x)) # string type
+
 x = float(x)
 print(type(x)) # float type
-x = int(x) #OK, removes decimal from float number
+
+x = int(x) #OK, removes decimal portion from float number
 print(type(x)) # int type
-x = "10.0"
-x = int(x) # Error
+
+x = str(x)
+print(type(x)) # string type
+
 # When converting a string to an int, it doesn't expect the decimal portion
 # in the string
+x = "10.0"
+x = int(x) # Error
 ```
 
 # Input Function
 
 * Useful programs generally require input from the user
-	* Imagine if your web browser ONLY took you to <https:://www.ucsb.edu>!
+	* Imagine if your web browser ONLY took you to https:://www.ucsb.edu !
 * There are many forms of input into a program (keyboard, mouse movement / clicks, files, ...)
 * For an interactive shell application, we can accept user keyboard input using the input function (`input()`)
 	* When the input function is called, it displays what’s inside, then waits until the user enters something and hits return
 	* Whatever the user typed before hitting return is inputted into the program as a `string` type
 		* Important to convert this string type to an appropriate numerical type if necessary
 
-* A tip calculator example (our first program!):
+* A tip calculator example:
 
 ```python
 TAX_RATE = 0.1
 userName = input("Hi, please enter your name: ")
+
 print("Hi,", userName, ". What’s the amount of your bill (not including tax and tip)?")
-# be careful, if input is not a float, program will crash
-# This is telling Python take the input() and "convert" it to a float.
-totalBill = float(input())
+totalBill = float(input()) #take the input() string and convert it to a float.
+
 print("What tip percentage would you like to leave?")
 tipPercentage = float(input())
+
 taxAmount = totalBill * TAX_RATE
 tipAmount = totalBill * (tipPercentage / 100)
 print("The total amount to pay is $", totalBill + taxAmount + tipAmount)
