@@ -170,7 +170,7 @@ I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoid
 * Your zyBook activities are based on the work you complete by the deadline.
   * You receive full credit for any work in zyBooks completed **before** the deadline, but any portion of incomplete work that is submitted after the deadline will only receive 50%.
   * You can submit late work up until the end of Sunday before finals week (3/17/24 by 11:59PM PST).
-* Your lowest quiz score will be dropped automatically.
+* There are no makeup opportunities for missed quizzes. Your lowest quiz score will be dropped automatically.
 * Gradescope labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have an automatic **20%** deduction from your assignment. We will only consider the most recent submission.
 * **I highly encourage students not to wait until the last-minute to complete assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 * For any manually graded component, regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students (except stated otherwise).
