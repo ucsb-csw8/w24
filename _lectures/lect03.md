@@ -181,9 +181,9 @@ print(myModule.course)
 * In many cases, we may not want **ALL** the code from a module to be executed
 	* For example, debugging print statements or running tests for the modules
 * So Python allows us to not execute certain Python code **when it is imported into another module**
-* All code in the `if __name__ == '__main__'` block will only be executed if we run this module directly
-	* Note that all statements in this block must be indented within the `if __name__ == '__main__'` structure (this is how Python determines scope - more on this soon!)
-	* But if this module is imported, then the code in the `if __name__ == '__main__'` block will not be executed
+* All code in the `if __name__ == '__main__':` block will only be executed if we run this module directly
+	* Note that all statements in this block must be indented within the `if __name__ == '__main__':` structure (this is how Python determines scope - more on this soon!)
+	* But if this module is imported, then the code in the `if __name__ == '__main__':` block will not be executed
 * Example
 
 ```python
@@ -195,7 +195,7 @@ if __name__ == '__main__':
 	print(name, course)
 ```
 
-* Note that `print(name, course)` is not executed when we run `lecture.py` since this statement is in the `if __name__ == '__main__'` block
+* Note that `print(name, course)` is not executed when we run `lecture.py` since this statement is in the `if __name__ == '__main__':` block
 * But if we run `myModule.py` directly, then `print(name, course)` is executed (since it was run directly and not imported into another module)
 * Consider this case...
 
@@ -209,7 +209,7 @@ if __name__ == '__main__':
 ```
 
 * Running `myModule.py` directly will work fine, but when we run `lecture.py` we get an error
-	* Since we ran `lecture.py` directly, `name` and `course` variables are not initialized since they exist in the `if __name__ == '__main__'` block in `myModule.py`
+	* Since we ran `lecture.py` directly, `name` and `course` variables are not initialized since they exist in the `if __name__ == '__main__':` block in `myModule.py`
 So when `lecture.py` is trying to execute `print(myModule.name)`, Python things this is undefined
 
 
