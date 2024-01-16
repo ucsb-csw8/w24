@@ -175,7 +175,7 @@ print(myModule.course)
 * In this situation, in order to tell Python to use variables defined in `myModule.py` within `lecture.py`, we use `myModule` (dot) variable name.
 * This way Python knows the variable to use is in `myModule.py` (we didn’t define the variables `name` or `course` in `lecture.py`)
 
-# if __name__ == '__main__':
+# `if __name__ == '__main__':`
 
 * When a module is imported into another module, the entire imported module is executed
 * In many cases, we may not want **ALL** the code from a module to be executed
