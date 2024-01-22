@@ -43,7 +43,7 @@ Ethan Meade
 
 Josiah Ross
 * Lab Sections: 4pm, 5pm
-* Friday 11am - 1pm
+* Friday 10am - 12pm
 * <https://ucsb.zoom.us/j/88499822812>
 
 # Undergraduate Learning Assistant
