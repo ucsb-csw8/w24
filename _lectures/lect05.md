@@ -64,7 +64,7 @@ if milesDriven > 200:
 print("Drive safe") # not part of if block since not indented
 ```
 
-# Branching With if-else Statements
+# Branching With `if-else` Statements
 
 * What if we want to do something specific i the event that the BOOLEAN_CONDITION is `False`?
 * We can pair `if` statements with an `else` portion
@@ -103,7 +103,7 @@ else:
 print("Enjoy the party!")
 ```
 
-# Multi-branch / Elif Statements
+# Multi-branch / `elif` Statements
 
 * An example of using multi-branches to determine class standing based on units
 
@@ -157,7 +157,7 @@ When using the `not` operator, it turns `True` → `False`, and `False` → `Tru
 
 * High level language example:
 	* Think of two given facts like:
-		* I am hungry and
+		* I am hungry
 		* I am cold
 	* [I am hungry] `or` [I am warm] → `True or False` → `True`
 	* [I am hungry] `and` [I am warm] → `True and False` → `False`
