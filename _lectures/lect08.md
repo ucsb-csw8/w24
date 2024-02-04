@@ -119,7 +119,7 @@ print(f'{value:e}') #1.234000e+01
 101<sub>2</sub> = 1 * (2^2) + 0 * (2^1) + 1 * (2^0) = 5<sub>10</sub>
 ```
 
-* Converting a base 10 (decimal) to base 2 (binary) number can use the **best-fit** algorithm:
+* Converting a positive base 10 (decimal) to base 2 (binary) number can use the **best-fit** algorithm:
 	* See which largest power of two is less than the number
 	* Write a `1` in the appropriate place, and a `0` for any powers of 2 that are larger
 	* Replace the number by subtracting it by the largest power of 2 less than the current number
@@ -153,7 +153,7 @@ ___1____ | ____0___ | ___1___  | ___0___ | ___1___ | ___0___ | ___1___
 	* A color of a pixel in an image, a pitch in an audio file, floating point and negative numbers, etc.
 * This is why there are various files storing these bits of information to be interpreted in certain ways (`.mp3` / `.mp4` / `.wav` / `.jpg` / `.pdf` / ...)
 * Characters (under-the-hood) are actually assigned specific numerical values represented with binary numbers
-	* Plain text (.txt) files use ASCII (American Standard Code for Information Interchange) can represent all English alpha / numeric characters with 8 bits of information (255 unique values)
+	* Plain text (.txt) files use ASCII (American Standard Code for Information Interchange) and can represent all English alpha / numeric characters with 8 bits of information (256 unique values)
 	* Unicode uses more bits (more unique values) to represent characters in various languages
 * Lowercase / upper-case characters are represented with different numerical values, which is why:
 
