@@ -45,7 +45,7 @@ def countVowels(strList):
 	vowels = "AEIOUaeiou"
 	numVowels = 0
 	for s in listOfStrings: # s is an element in listOfStrings
-		for c in s:			# c is a character in s
+		for c in s: # c is a character in s
 			if c in vowels:
 				numVowels += 1
 	return numVowels
