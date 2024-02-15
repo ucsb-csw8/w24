@@ -1,6 +1,6 @@
 ---
 num: "Lecture 8"
-desc: "Sets, String Foratting cont, Binary Representation and Text"
+desc: "Sets, String Formatting cont, Binary Representation and Text"
 ready: true
 lecture_date: 2024-02-01 11:00:00.00-7:00
 ---
