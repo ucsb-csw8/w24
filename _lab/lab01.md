@@ -62,7 +62,7 @@ We will write four Python functions for this lab. **If you choose to work with a
 Copy the following code into your `lab01.py` file and complete the function definitions according to the comments. **Type your actual name (and your partner's name if you worked with one) at the top**:
 
 ```python
-# Lab00, CSW 8
+# Lab01, CSW 8
 # [type your name here]
 # [type your partner's name here if you worked with someone]
 
