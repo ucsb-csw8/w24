@@ -123,6 +123,7 @@ def removeMultiples(listOfElements, x):
     we're accumulating a collection
     '''
     # COMPLETE YOUR FUNCTION DEFINITION HERE
+
 assert removeMultiples([], 1) == []
 assert removeMultiples([4, 8, 12, 16, 20], 4) == []
 assert removeMultiples([-2, 3, 4, -5, 6.1, 9], 3) == [-2, 4, -5, 6.1]
