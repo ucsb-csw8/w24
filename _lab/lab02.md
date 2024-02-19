@@ -9,7 +9,7 @@ due: 2024-02-25 23:59:59-7
 
 # Introduction
 
-Your first lab for this week is an introduction to writing Python code in `.py` files and making submissions to Gradescope's autograder. You may choose to work with a partner if you like (but this is not required). **If you choose to work with a partner, please follow the instructions on recording who your partner is (explained below). Both you and your partner MUST make individual submissions on the Gradescope system to receive credit.**
+Your second lab will require you to write Python code in `.py` files and make submissions to Gradescope's autograder. You may choose to work with a partner if you like (but this is not required). **If you choose to work with a partner, please follow the instructions on recording who your partner is (explained below). Both you and your partner MUST make individual submissions on the Gradescope system to receive credit.**
 
 As stated in the syllabus, Gradescope labs will only have a 24-hour late window after the deadline. Submissions during the late window period will have an automatic 20% deduction from your assignment. We will only consider the most recent submission.
 
