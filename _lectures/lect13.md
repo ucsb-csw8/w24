@@ -156,7 +156,7 @@ print(ourMax(list1)) # 40
 
 ```python
 list1 = [30, 20, 40, 10] # change 10 to "10" to see an error
-print(max(list1))
+print(max(list1)) # 40
 ```
 
 * Examples of `min`, `sum`
