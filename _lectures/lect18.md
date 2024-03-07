@@ -11,7 +11,7 @@ Recorded Lecture: [3_7_24](https://drive.google.com/file/d/1TDvKr4UYza5G5fdP-IaH
 
 * Walkthrough zyBooks 9.6.1
 
-![scramble.JPEG](scramble.JPEG)
+![scramble.jpeg](scramble.jpeg)
 
 # Files
 
