@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2024-03-05 11:00:00.00-7:00
 ---
 
-Recorded Lecture: [3_05_24](https://drive.google.com/file/d/1y9FNYIXLhvi26oMyxLwtcyb7zIoIWUgt/view?usp=drive_link)
+Recorded Lecture: [3_5_24](https://drive.google.com/file/d/1y9FNYIXLhvi26oMyxLwtcyb7zIoIWUgt/view?usp=drive_link)
 
 * I'm linking my previous written exams from past CMPSC 8 offerings for **additional practice**.
 * **Important Notes / Disclaimer:**
