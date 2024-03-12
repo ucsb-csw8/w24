@@ -89,8 +89,8 @@ outfile.close()
 ```
 ```python
 # Example copying / writing from a file to another file.
-infile = open(‘example.txt’, ‘r’)
-outfile = open(‘copy.txt’, ‘w’)
+infile = open('example.txt', 'r')
+outfile = open('copy.txt', 'w')
 for line in infile:
 	outfile.write(line)
 infile.close()
