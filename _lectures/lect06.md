@@ -60,7 +60,7 @@ def isEven(value):
 	''' Function that returns True if value is even,
 		returns False otherwise '''
 	if value % 2 == 0: # Correct
-			return True
+		return True
 	else:
 		return False
 
