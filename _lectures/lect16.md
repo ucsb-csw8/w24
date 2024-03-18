@@ -51,7 +51,7 @@ print(s2.strip()) # Hello!
 * If one string is shorter than another string (but the shorter string contains all the same characters), then the shorter string is considered less than the longer string
 * If all characters are equal in both strings, then Python considers these strings as equivalent
 * Note that upper and lower case characters have different ASCII values, so `"a" != "A"`
-	* If we didn’t want to compare cases and just alphanumeric characters, we could convert both strings to all upper case (using `.upper()`) or all lower case (using `.lower()`
+	* If we didn’t want to compare cases and just alphanumeric characters, we could convert both strings to all upper case (using `.upper()`) or all lower case (using `.lower()`)
 * Example:
 
 ```python
